@@ -2,7 +2,7 @@
 
 ## 👨‍💻 AI & Full Stack Developer
 
-Hello! I'm a Btech Student with a passion for AI, machine learning, and full-stack development. I build applications that solve real-world problems through the power of data and intelligent algorithms.
+Hello! I'm a AI/ML developer with a passion for AI, machine learning, and full-stack development. I build applications that solve real-world problems through the power of data and intelligent algorithms.
 
 ### 🔍 I'm currently working on
 - My latest project [Mentra](https://github.com/AneeshAhuja31/Mentra) 
@@ -17,7 +17,7 @@ Hello! I'm a Btech Student with a passion for AI, machine learning, and full-sta
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
-- [Email](aneeshahuja31@gmail.com)
+- [Email](mailto:aneeshahuja31@gmail.com)
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AneeshAhuja31&show_icons=true&theme=radical)
