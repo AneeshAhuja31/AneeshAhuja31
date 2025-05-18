@@ -17,7 +17,7 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and full-s
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
-- [Email](mailto:aneeshahuja31@gmail.com)
-  
+- [Peerlist](https://peerlist.io/aneeshahuja)
+- [X](https://x.com/AneeshAhuja3112)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AneeshAhuja31&show_icons=true&theme=radical)
