@@ -1,8 +1,8 @@
 # Aneesh Ahuja
 
-## 👨‍💻 AI & Full Stack Developer
+## 👨‍💻 AI/ML Developer
 
-Hello! I'm a AI/ML developer with a passion for AI, machine learning, and full-stack development. I build applications that solve real-world problems through the power of data and intelligent algorithms.
+Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python-based backend development. I build applications that solve real-world problems through the power of data and intelligent algorithms.
 
 ### 🔍 I'm currently working on
 - My latest project [Mentra](https://github.com/AneeshAhuja31/Mentra) 
