@@ -12,8 +12,8 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 ### 💼 Technical Skills
 - **Languages**: Python, C/C++, HTML/CSS
 - **ML/AI**: TensorFlow, PyTorch, Keras, scikit-learn, HuggingFace, Langchain, OpenCV
-- **Web Dev**: Flask, FastAPI, Streamlit, Pydantic
-- **Tools**: Git, MongoDB, Redis, Selenium, Botasaurus
+- **Web Technologies**: Flask, FastAPI, Streamlit, Pydantic
+- **Tools**: Git, MongoDB, Selenium, Botasaurus
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
