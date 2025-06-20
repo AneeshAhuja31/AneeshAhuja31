@@ -10,7 +10,7 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 - Exploring LLM applications with Langchain and HuggingFace
 
 ### 💼 Technical Skills
-- **Languages**: Python, C/C++, HTML/CSS
+- **Languages**: Python, C/C++, HTML/JS
 - **ML/AI**: TensorFlow, PyTorch, Keras, scikit-learn, HuggingFace, Langchain, OpenCV
 - **Web Technologies**: Flask, FastAPI, Streamlit, Pydantic
 - **Tools**: Git, MongoDB, Selenium, Botasaurus
