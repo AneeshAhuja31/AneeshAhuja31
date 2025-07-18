@@ -5,7 +5,7 @@
 Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python-based backend development. I build applications that solve real-world problems through the power of data and intelligent algorithms.
 
 ### 🔍 I'm currently working on
-- My latest project [Mentra](https://github.com/AneeshAhuja31/Mentra) 
+- My latest project [n8nSync](https://github.com/AneeshAhuja31/n8nSync) 
 - Enhancing my SafeHire Wizard project with more advanced NLP capabilities
 - Exploring LLM applications with Langchain and HuggingFace
 
