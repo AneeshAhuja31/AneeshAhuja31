@@ -6,8 +6,8 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 
 ### 🔍 I'm currently working on
 - Creating statefull graphs with LangGraph
-- My latest project [n8nSync](https://github.com/AneeshAhuja31/n8nSync) using ReAct agent
-- Enhancing my SpeakAi project with more advanced Ai and NLP capabilities
+- My latest project [n8nSync](https://github.com/AneeshAhuja31/n8nSync).
+- Enhancing my SpeakAi project with more advanced Ai and NLP capabilities.
 - Exploring LLM applications with Langchain and HuggingFace
 
 ### 💼 Technical Skills
