@@ -21,4 +21,4 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 - [Peerlist](https://peerlist.io/aneeshahuja)
 - [X](https://x.com/AneeshAhuja3112)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AneeshAhuja31)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AneeshAhuja31&theme=dark)
