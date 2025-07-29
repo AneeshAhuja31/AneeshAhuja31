@@ -12,8 +12,8 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 
 ### 💼 Technical Skills
 - **Languages**: Python, C/C++, HTML/JS
-- **ML/AI**: TensorFlow, PyTorch, Keras, scikit-learn, HuggingFace, Langchain, OpenCV
-- **Web Technologies**: Flask, FastAPI, Streamlit, Pydantic
+- **ML/AI**: TensorFlow, PyTorch, HuggingFace, Langchain, LangGraph
+- **Web Technologies**: Flask, FastAPI, Streamlit
 - **Tools**: Git, MongoDB, Selenium, Botasaurus
 
 ### 📫 Connect with me
