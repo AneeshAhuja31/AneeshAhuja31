@@ -11,10 +11,10 @@ Hello! I'm a AI/ML developer with a passion for AI, machine learning, and python
 - Exploring LLM applications with Langchain and HuggingFace
 
 ### 💼 Technical Skills
-- **Languages**: Python, C/C++, HTML/JS
-- **ML/AI**: TensorFlow, PyTorch, HuggingFace, Langchain, LangGraph
-- **Web Technologies**: Flask, FastAPI, Streamlit
-- **Tools**: Git, MongoDB, Selenium, Botasaurus
+- **Languages**: Python, Javascript, Java, C/C++,
+- **ML/AI**:  Langchain, LangGraph, TensorFlow, PyTorch, HuggingFace
+- **Web Technologies**: FastAPI, Flask, Streamlit
+- **Tools**: Git, MongoDB, Selenium
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
