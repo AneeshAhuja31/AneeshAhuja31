@@ -24,3 +24,5 @@ I am interested in open sourcing applications involving python based agentic fra
 - [X](https://x.com/AneeshAhuja3112)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AneeshAhuja31&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AneeshAhuja31&show_icons=true&locale=en&layout=compact&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AneeshAhuja31&theme=fark)
