@@ -15,7 +15,7 @@ Passionate AI/ML developer focused on building intelligent applications that sol
 ## 🚀 Current Projects & Focus
 
 ### 🔥 Active Development
-- **Stateful AI Agents**: Creating complex stateful graphs with **LangGraph** for dynamic AI workflows
+- **AI Agents**: Creating complex stateful graphs with **LangGraph** and **Langchain** for dynamic AI workflows
 - **[n8nSync](https://github.com/AneeshAhuja31/n8nSync)**: My latest automation and synchronization project
 - **SpeakAI Enhancement**: Advancing my speech AI project with state-of-the-art NLP capabilities
 - **LLM Applications**: Building production-ready applications with **LangChain** and **LangGraph**
