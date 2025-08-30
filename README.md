@@ -1,4 +1,4 @@
-# Hi there, I'm Aneesh Ahuja 👋
+# Hi there, I'm Aneesh Ahuja 
 
 ## 🤖 AI/ML & Python Backend Developer
 
