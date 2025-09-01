@@ -1,10 +1,10 @@
 # Hi there, I'm Aneesh Ahuja 
 
-## 🤖 AI/ML & Python Backend Developer
+## AI/ML & Python Backend Developer
 
 Passionate AI/ML developer focused on building intelligent applications that solve real-world problems through the power of data and advanced algorithms. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python-based frameworks.
 
-### 🎯 What I Do
+### What I Do
 - **AI/ML Development**: Building intelligent systems with modern ML frameworks
 - **Backend Development**: Creating robust Python-based APIs and services  
 - **Agentic AI**: Developing autonomous AI agents using LangGraph and LangChain
@@ -12,15 +12,14 @@ Passionate AI/ML developer focused on building intelligent applications that sol
 
 ---
 
-## 🚀 Current Projects & Focus
 
-### 🔥 Active Development
+### Active Development
 - **AI Agents**: Creating complex stateful graphs with **LangGraph** and **Langchain** for dynamic AI workflows
 - **[n8nSync](https://github.com/AneeshAhuja31/n8nSync)**: My latest automation and synchronization project
 - **SpeakAI Enhancement**: Advancing my speech AI project with state-of-the-art NLP capabilities
 - **LLM Applications**: Building production-ready applications with **LangChain** and **LangGraph**
 
-### 🎯 Areas of Interest
+### Areas of Interest
 - Agentic AI frameworks and their practical implementations
 - Open-source Python tools for AI/ML development
 - Conversational AI and natural language processing
@@ -28,7 +27,7 @@ Passionate AI/ML developer focused on building intelligent applications that sol
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +54,7 @@ Passionate AI/ML developer focused on building intelligent applications that sol
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -69,7 +68,7 @@ Passionate AI/ML developer focused on building intelligent applications that sol
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate on innovative AI projects and discuss the latest developments in machine learning!
 
@@ -81,7 +80,7 @@ I'm always excited to collaborate on innovative AI projects and discuss the late
 
 <div align="center">
   
-### 💡 "Building the future, one algorithm at a time"
+### "Building the future, one algorithm at a time"
 
 *Open to collaborations, freelance projects, and exciting opportunities in AI/ML development*
 
