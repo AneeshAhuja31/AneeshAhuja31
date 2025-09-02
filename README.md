@@ -2,7 +2,7 @@
 
 ## AI/ML & Python Backend Developer
 
-Passionate AI/ML developer focused on building intelligent applications that solve real-world problems through the power of data and advanced algorithms. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python-based frameworks.
+Passionate AI/ML developer focused on building intelligent applications that solve real-world problems. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python-based frameworks.
 
 ### What I Do
 - **AI/ML Development**: Building intelligent systems with modern ML frameworks
