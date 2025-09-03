@@ -1,6 +1,6 @@
 # Hi there, I'm Aneesh Ahuja 
 
-## AI/ML & Python Backend Developer
+## AI/ML Automation & Python Backend Developer
 
 Passionate AI/ML developer focused on building intelligent applications that solve real-world problems. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python-based frameworks.
 
