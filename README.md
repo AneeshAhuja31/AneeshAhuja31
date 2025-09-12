@@ -70,7 +70,7 @@ AI/ML developer focused on building intelligent applications that solve real wor
 
 ## Let's Connect!
 
-I'm always excited to collaborate on innovative AI projects and discuss the latest developments in machine learning!
+I'm always excited to collaborate on innovative AI and automation projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
 [![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/aneeshahuja)
