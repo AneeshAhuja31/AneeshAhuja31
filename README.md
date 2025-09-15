@@ -4,7 +4,7 @@
 
 AI/ML developer focused on building intelligent applications that solve real world problems. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python based frameworks.
 
-### What I Do
+### What I Do:
 - **AI/ML Development**: Building intelligent systems with modern ML frameworks
 - **Backend Development**: Creating robust Python-based APIs and services  
 - **Agentic AI**: Developing autonomous AI agents using LangGraph and LangChain
