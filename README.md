@@ -3,30 +3,13 @@
 
 ## AI/ML Automation & Python Backend Developer
 
-AI/ML developer focused on building intelligent applications that solve real world problems. I specialize in creating robust, scalable solutions using cutting-edge AI technologies and Python based frameworks.
-
-### What I Do:
-- **AI/ML Development**: Building intelligent systems with modern ML frameworks
-- **Backend Development**: Creating robust Python-based APIs and services  
-- **Agentic AI**: Developing autonomous AI agents using LangGraph and LangChain
-- **Open Source**: Contributing to and maintaining Python-based AI frameworks and tools
-
----
-
-
-### Active Development
-- **AI Agents**: Creating complex stateful graphs with **LangGraph** and **Langchain** for dynamic AI workflows
-- **[n8nSync](https://github.com/AneeshAhuja31/n8nSync)**: My latest automation and synchronization project
-- **SpeakAI Enhancement**: Advancing my speech AI project with state-of-the-art NLP capabilities
-- **LLM Applications**: Building production-ready applications with **LangChain** and **LangGraph**
-
-### Areas of Interest
-- Agentic AI frameworks and their practical implementations
-- Open-source Python tools for AI/ML development
-- Conversational AI and natural language processing
-- MLOps and scalable AI deployment strategies
-
----
+<p><em> 
+  - 🤖  I’m an AI/ML Developer<br>
+  - 🛠️  My major tech stack revolves around Python for AI, automation, and backend development.<br>
+  - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
+  - 💼  I’m actively looking for freelance projects and internships in AI and software development.<br>
+  - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
+</em></p>
 
 ## Tech Stack
 
