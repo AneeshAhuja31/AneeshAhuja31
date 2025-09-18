@@ -15,14 +15,17 @@
 
 <p align="center">
   <!-- existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,cpp&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,ts&perline=7" />
+  <br>
+  <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
+  
   <!-- n8n -->
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" />
 
   <!-- HuggingFace -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" />
 </p>
+
 
 
 
@@ -50,10 +53,4 @@ I'm always excited to collaborate on innovative AI and automation projects!
 
 ---
 
-<div align="center">
-  
-### "Building the future, one algorithm at a time"
 
-*Open to collaborations, freelance projects, and exciting opportunities in AI/ML development*
-
-</div>
