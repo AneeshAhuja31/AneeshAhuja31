@@ -11,11 +11,20 @@
   - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
 </em></p>
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
+
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=python,langchain,langgraph&perline=8">
+  <!-- existing skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,cpp&perline=8" />
+
+  <!-- n8n -->
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" />
+
+  <!-- HuggingFace -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" />
 </p>
+
+
 
 ## GitHub Analytics
 
