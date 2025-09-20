@@ -1,5 +1,5 @@
 ![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/user-attachments/assets/db9b9880-694b-4da2-be66-86fdbe09b14f)
-# Hi there, I'm Aneesh Ahuja 
+# Hey, I'm Aneesh Ahuja 
 
 ## AI/ML Automation & Python Backend Developer
 
