@@ -45,7 +45,7 @@
 
 ## Let's Connect!
 
-I'm always excited to collaborate on innovative AI and automation projects!
+I'm always excited to collaborate on AI and automation projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-ahuja-9600a6291/)
 [![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/aneeshahuja)
