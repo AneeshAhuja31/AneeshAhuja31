@@ -1,7 +1,7 @@
 ![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/user-attachments/assets/db9b9880-694b-4da2-be66-86fdbe09b14f)
 # Hey, I'm Aneesh Ahuja 
 
-## AI/ML Automation & Python Dev
+## AI/ML Automation & Backend Dev
 
 <p><em> 
   - 🤖  I’m an AI/ML Developer<br>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,react,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,selenium,pytorch,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,react,ts&perline=8" />
   <br>
   <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
   
