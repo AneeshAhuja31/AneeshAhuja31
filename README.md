@@ -3,7 +3,7 @@
 
 <p><em> 
   - 🤖  I’m an AI & FullStack Developer<br>
-  - 🛠️  My major work revolves around Nodejs, Python for AI, automation, and Fullstack development.<br>
+  - 🛠️  My major work revolves around Nodejs, Python for AI, automation, frontend integration and Fullstack development.<br>
   - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
   - 💼  I’m actively looking for freelance projects and internships in AI and Fullstack development.<br>
   - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
