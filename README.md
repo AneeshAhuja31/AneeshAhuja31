@@ -1,11 +1,13 @@
 ![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/user-attachments/assets/db9b9880-694b-4da2-be66-86fdbe09b14f)
 # Hey, I'm Aneesh Ahuja 
 
+## AI/ML Automation & Python Dev
+
 <p><em> 
-  - 🤖  I’m an AI & FullStack Developer<br>
-  - 🛠️  My major work revolves around Nodejs, Python for AI, automation, frontend integration and Fullstack development.<br>
+  - 🤖  I’m an AI/ML Developer<br>
+  - 🛠️  My major work revolves around Python for AI, automation, and backend development.<br>
   - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
-  - 💼  I’m actively looking for freelance projects and internships in AI and Fullstack development.<br>
+  - 💼  I’m actively looking for freelance projects and internships in AI and software development.<br>
   - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
 </em></p>
 
@@ -13,7 +15,7 @@
 
 <p align="center">
   <!-- existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,selenium,pytorch,mongodb,postgres,redis,react,nextjs,git,github,docker,postman,cloudflare,supabase,java,cpp,c,html,css,js,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,react,ts&perline=8" />
   <br>
   <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
   
