@@ -4,10 +4,10 @@
 ## AI/ML Automation & Python Dev
 
 <p><em> 
-  - 🤖  I’m an AI/ML Developer<br>
+  - 🤖  I’m an AI/ML Developer and Freelancer<br>
   - 🛠️  My major work revolves around Python for AI, automation, and backend development.<br>
   - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
-  - 💼  I’m actively looking for freelance projects and internships in AI and software development.<br>
+  - 💼  I’m currently working with startups evolve their AI workflows and while also freelancing.<br>
   - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
 </em></p>
 
