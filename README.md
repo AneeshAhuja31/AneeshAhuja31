@@ -1,7 +1,7 @@
 ![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/user-attachments/assets/db9b9880-694b-4da2-be66-86fdbe09b14f)
 # Hey, I'm Aneesh Ahuja 
 
-## AI/ML Automation & Python Dev
+## AI/ML Automation & Python Developer
 
 <p><em> 
   - 🤖  I’m an AI/ML Developer and Freelancer<br>
