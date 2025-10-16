@@ -8,7 +8,7 @@
   - 🛠️  My major work revolves around Python for AI, automation, and backend development.<br>
   - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
   - 💼  I’m currently working as an AI Intern with startups evolve their AI workflows and while also freelancing.<br>
-  - 📩 Reach me through <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
+  - 📩 Reach me through: <a href="mailto:aneeshahuja31@gmail.com">Email</a>.<br>
 </em></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
