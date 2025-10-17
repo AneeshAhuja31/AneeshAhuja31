@@ -18,7 +18,9 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,react,ts&perline=8" />
   <br>
   <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
-  
+  <img src="assets/logos/langgraph.png" alt="LangChain" width="50" />
+  <img src="assets/logos/qdrant.png" alt="LangChain" width="50" />
+
   <!-- n8n -->
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" />
 
