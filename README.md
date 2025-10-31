@@ -4,7 +4,7 @@
 ## AI and Backend Dev
 
 <p><em> 
-  - 🤖  I’m an AI/ML Developer and Freelancer <br>
+  - 🤖  I’m an AI/ML Developer and Freelancer<br>
   - 🛠️  My major work revolves around Python for AI, automation, and backend dev.<br>
   - ⚡  Creator of n8nSync – an agent-based tool that automates n8n workflow creation using user prompts.<br>
   - 💼  I’m currently working as an AI Intern with startups evolve their AI workflows and while also freelancing.<br>
