@@ -1,4 +1,6 @@
-![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/user-attachments/assets/db9b9880-694b-4da2-be66-86fdbe09b14f)
+<!--![360_F_741575203_mEjveFX3gZtflUwlOUoqIYTq2BCRUcw8](https://github.com/AneeshAhuja31/AneeshAhuja31/assets/logos/2ff6573ae61ee84e3093ca84497162e8.jpg)-->
+<img src="assets/logos/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="LangChain" />
+
 # Hey, I'm Aneesh Ahuja 
 
 ## AI and Backend Dev
@@ -15,7 +17,7 @@
 
 <p align="center">
   <!-- existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,redis,git,github,docker,vscode,postman,cloudflare,supabase,java,cpp,c,html,css,js,react,ts&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,supabase,firebase,redis,git,github,docker,aws,googlecloud,azure,postman,cloudflare,java,cpp,ts,react,nextjs&perline=8" />
   <br>
   <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
   <img src="assets/logos/langgraph.png" alt="LangChain" width="50" />
