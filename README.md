@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- existing skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,supabase,firebase,redis,git,github,docker,aws,googlecloud,azure,postman,cloudflare,java,cpp,ts,react,nextjs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,tensorflow,pytorch,mongodb,postgres,supabase,firebase,redis,git,docker,aws,googlecloud,azure,postman,cloudflare,java,cpp,ts,react,nextjs,go&perline=8" />
   <br>
   <img src="assets/logos/langchain.jpeg" alt="LangChain" width="50" />
   <img src="assets/logos/langgraph.png" alt="LangChain" width="50" />
